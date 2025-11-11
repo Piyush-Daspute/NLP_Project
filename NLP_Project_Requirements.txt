@@ -1,0 +1,17 @@
+pandas
+numpy
+requests
+beautifulsoup4
+matplotlib
+seaborn
+nltk
+langdetect
+googletrans==4.0.0-rc1
+vaderSentiment
+scikit-learn
+spacy
+gensim
+
+
+python -m spacy download en_core_web_sm
+!pip install gensim
